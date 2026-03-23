@@ -31,7 +31,7 @@
 
 ### 特性
 
-- [x] 一键 Smart Core 规则覆写，基于 AI 模型自动选择最优节点 详细介绍请看 [这里](https://clashparty.org/docs/guide/smart-core)
+- [x] 一键 Smart Core 规则覆写，基于 AI 模型自动选择最优节点 详细介绍请看 [这里](https://clashparty.org/docs/guide/smart-core) 或查看 [内核对比文档](./docs/kernel-comparison.md)
 - [x] 开箱即用，无需服务模式的 Tun
 - [x] 多种配色主题可选，UI 焕然一新
 - [x] 支持大部分 Mihomo(Clash Meta) 常用配置修改
